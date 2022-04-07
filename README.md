@@ -73,3 +73,4 @@ When you are ready to make your contribution, you can then:
  4. Issue pull request
  
 Congratulations! You have now made your (first) contribution to the KZN Sports Confederation repository.
+
